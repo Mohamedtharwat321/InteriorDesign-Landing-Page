@@ -21,8 +21,8 @@ Live Demo: https://mohamedtharwat321.github.io/Solar-Landing-Page/
 ## Features
 - **Responsive Design**: The landing page is fully responsive and works seamlessly on desktops, tablets, and mobile devices.
 - **Interactive Navigation**:  Smooth scrolling and interactive elements enhance user engagement.
-- **Service Showcase Section:**: Detailed descriptions of our services, including Lighting Design, Interior Design, and Outdoor Design.
-- **Customer Testimonials Section:**: Real feedback from satisfied clients.
+- **Service Showcase Section:** Detailed descriptions of our services, including Lighting Design, Interior Design, and Outdoor Design.
+- **Customer Testimonials Section:** Real feedback from satisfied clients.
 
 ## Technologies Used
 - **HTML5**: For structuring the content.
