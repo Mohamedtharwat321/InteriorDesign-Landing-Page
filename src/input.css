@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+html {
+    font-family: "Inter", sans-serif;
+}
+
+@theme {
+    --color-p1: #545454;
+    --color-p2: #1F1F1F;
+}
+
+@layer utilities {
+    .reusable-padding {
+        @apply px-4 sm:px-6 md:px-10 lg:px-20;
+    }
+
+}
